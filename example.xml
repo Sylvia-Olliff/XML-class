@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+	<book>
+		<title>The Last Centurion</title>
+		<author>John Ringo</author>
+		<genre>Military Fiction</genre>
+	</book>
+	<book>
+		<title>The Hot Gate</title>
+		<author>John Ringo</author>
+		<genre>Science Fiction</genre>
+	</book>
+	<book>
+		<title>Tale of Two Cities</title>
+		<author>Charles Dickens</author>
+		<genre>Historical Drama</genre>
+	</book>
+</bookstore>
